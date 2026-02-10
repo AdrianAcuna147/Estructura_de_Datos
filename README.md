@@ -1,3 +1,5 @@
+Venta en tienda departamental
+
 El codigo crea una interfaz en la terminal donde le puedes agregar o eliminar las ventas, buscarlas, mostrar las ventas y totales por departamento.
 
 La primera parte del codigo define las clases que se usaron y las constantes(los departamentos  para usar los arreglos.
