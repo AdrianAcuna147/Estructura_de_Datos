@@ -311,5 +311,5 @@ if __name__ == "__main__":
     print("─"*72)
     visualizar_rango_alumnos(0, 20)
     
-    input("\nPresiona ENTER para ir al menú principal...")
+    input("\nPresiona ENTER para ir al menú...")
     menu_principal()
